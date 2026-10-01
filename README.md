@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Taswi 👋
 
-<!--
-**Taswi03/Taswi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year BTech Computer Science student
+💻 Exploring software development, backend engineering & AI
+🌱 Currently learning Python, FastAPI, PostgreSQL and APIs
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student who enjoys learning by building, experimenting, and figuring out how things work behind the scenes.
+
+I'm currently exploring different areas of technology to understand what I enjoy most, while building a strong foundation in programming and software development.
+
+### Currently Exploring
+
+* 🐍 **Backend Development** — Python, Flask, FastAPI & REST APIs
+* 🤖 **AI/ML** — exploring the fundamentals and understanding how AI systems work
+* 🌐 **Full-Stack Development** — learning how frontend, backend and databases come together
+* 🌱 **Open Source** — learning how to collaborate, contribute and work with real-world codebases
+
+## Tech Stack
+
+**Languages**
+Python • Java • C++ • JavaScript
+
+**Backend**
+Flask • FastAPI
+
+**Databases**
+PostgreSQL • Firebase
+
+**Tools**
+Git • GitHub • VS Code • Docker
