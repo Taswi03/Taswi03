@@ -19,14 +19,14 @@ I'm currently exploring different areas of technology to understand what I enjoy
 
 ## Tech Stack
 
-**Languages**
+**Languages** - 
 Python • Java • C++ • JavaScript
 
-**Backend**
+**Backend** - 
 Flask • FastAPI
 
-**Databases**
+**Databases** - 
 PostgreSQL • Firebase
 
-**Tools**
+**Tools** - 
 Git • GitHub • VS Code • Docker
